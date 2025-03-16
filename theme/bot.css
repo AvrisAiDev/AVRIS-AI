@@ -1,0 +1,27 @@
+.bpHeaderContainer {
+  display: none !important;
+}
+.bpContainer {
+  background-color: #EFF2F4 !important;
+  border-color: unset !important;
+  border-style: unset !important;
+}
+.bpMessageBlocksBubble {
+  background: #FFFFFF !important;
+  color: #000000 !important;
+}
+.bpComposerContainer {
+  background: #FFFFFF !important;
+  border-radius: 30px !important;
+}
+
+.bpComposerVoiceButtonContainer{
+    display: none !important;
+}
+
+.bpComposerInput{
+  color: rgb(0, 0, 0) !important;
+}
+.bpComposerPoweredBy{
+  display: none;
+}
